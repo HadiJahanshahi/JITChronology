@@ -1,3 +1,5 @@
-"New imp" is the experiments.
+# Scripts
 
-"Plots" is the plots in the paper.
+* "New imp" is the scripts related to Research Questions, written in R.
+
+* "Plots" is Python scripts to produce the figures in the paper.
