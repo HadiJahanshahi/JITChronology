@@ -1,5 +1,6 @@
 # PROMISE2019
 This repository contains the replication package for "Does chronology matter in JIT defect prediction? A Partial Replication Study" by Hadi Jahanshahi, Dhanya Jothimani, Mucahit Cevik, and Ayse Basar (Bener). 
+
 Maintained by: Hadi Jahanshahi (hadi.jahanshahi@reysron.ca)
 
 
