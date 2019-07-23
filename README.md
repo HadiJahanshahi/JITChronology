@@ -1,7 +1,5 @@
 # PROMISE2019
-This repository is created only to temporarily share the scripts of the paper with the referees and it contains the replication package for "Does chronology matter in JIT defect prediction? A Partial Replication Study". 
-
-After the paper being accepted, the link to the permanent GitHub of the authors will be replaced in the paper and this page will be deleted.
+This repository contains the replication package for "Does chronology matter in JIT defect prediction? A Partial Replication Study" by Hadi Jahanshahi, Dhanya Jothimani, Mucahit Cevik, and Ayse Basar (Bener). 
 
 # Required tools and packages
 
