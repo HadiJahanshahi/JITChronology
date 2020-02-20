@@ -1,6 +1,6 @@
 # Scripts
 
-* "New imp" is the scripts related to Research Questions, written in R.
+* "New imp" is the scripts related to Research Questions, written in R. The detailed comments are provided in the jupyter file. 
 
 * "Plots" is Python scripts to produce the figures in the paper.
 
