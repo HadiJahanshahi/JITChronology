@@ -1,6 +1,8 @@
 # We normalized LA and LD by dividing by LT, similar to Nagappan
 # and Ballfs approach. We also normalized LT and NUC by dividing by NF since
 # these metrics have high correlation with NF.
+
+## this function is used if we need to normalize the data. 
 doNormalize <- function(data){
   idx.la <- charmatch(c("la"), colnames(data))
   tmp.la <- data["la"]/data["lt"]
@@ -26,6 +28,8 @@ doNormalize <- function(data){
   return (data)
 }
 
+
+## this function is used for undersampling. The output of the function is a data with equal number of buggy and clean data
 
 # minority(buggy):1  majority(non-buggy):0
 doSampling <- function(data, obj="bug"){
