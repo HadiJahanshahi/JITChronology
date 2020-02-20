@@ -1,10 +1,12 @@
+################################################################################
 # This is used to calculated Brier Score,
 # accuracy, precision, recall, f-measure, 
 # and AUC under ROC.
 # We would be able to use packages but we preffered manual implementation. 
+################################################################################
+
 
 require(zoo) # For rollmean
-
 ################################################################################
 # Brier score
 ################################################################################
