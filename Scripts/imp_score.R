@@ -1,3 +1,6 @@
+################################################################################
+# The script will calculate the importance score. 
+################################################################################
 compute.importance.score <- function(fit, metrics) {
   rtn = NA
 
